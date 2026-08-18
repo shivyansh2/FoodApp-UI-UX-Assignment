@@ -56,7 +56,7 @@ A mobile-first UI/UX design case study for an authentic North Indian food delive
 ## 🔗 Links & Resources
 
 * 🎨 **Figma Design File:** [(https://www.figma.com/design/r4CGRVoJBw3FXZkvVmF3Fb/Food-App?node-id=0-1&t=iMrk7wpj7E8lzZdv-1)]
-* 📄 **Design Presentation (PNG):** [View PDF](Food-App.png)
+* 📄 **Design Presentation (PNG):** [View File](Food-App.png)
 
 ---
 
