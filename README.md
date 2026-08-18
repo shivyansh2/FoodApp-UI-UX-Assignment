@@ -17,12 +17,12 @@ A mobile-first UI/UX design case study for an authentic North Indian food delive
 
 | 01. Home & Discovery | 02. Product Detail | 03. Cart View |
 | :---: | :---: | :---: |
-| ![Home Screen](screenshots/01-home-screen.png) | ![Product Detail](screenshots/02-item-detail.png) | ![Cart](screenshots/03-cart.png) |
+| ![Home Screen](Home.png) | ![Product Detail](Item-Details.png) | ![Cart](Cart.png) |
 | *Search, Categories, Bestsellers* | *Murgh Butter Chicken Detail* | *Subtotal, Fees, Quantity Control* |
 
 | 04. Checkout | 05. Order Confirmation |
 | :---: | :---: |
-| ![Checkout](screenshots/04-checkout.png) | ![Order Confirmation](screenshots/05-order-success.png) |
+| ![Checkout](Checkout.png) | ![Order Confirmation](Order-Placed.png) |
 | *Address Selection & Payment Methods* | *Order Tracking & Status* |
 
 ---
@@ -55,8 +55,8 @@ A mobile-first UI/UX design case study for an authentic North Indian food delive
 
 ## 🔗 Links & Resources
 
-* 🎨 **Figma Design File:** [Link your public Figma view link here]
-* 📄 **Design Presentation (PDF):** [View PDF](./design-assets/Figma-Screens.pdf)
+* 🎨 **Figma Design File:** [(https://www.figma.com/design/r4CGRVoJBw3FXZkvVmF3Fb/Food-App?node-id=0-1&t=iMrk7wpj7E8lzZdv-1)]
+* 📄 **Design Presentation (PNG):** [View PDF](Food-App.png)
 
 ---
 
